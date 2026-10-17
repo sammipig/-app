@@ -1,0 +1,18 @@
+{
+  "name": "FitBudget 健身與預算",
+  "short_name": "FitBudget",
+  "description": "2 分鐘啟動、14 天挑戰、健身紀錄與預算管理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#176b58",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
